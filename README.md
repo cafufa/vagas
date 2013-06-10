@@ -14,6 +14,7 @@ Estamos expandindo para capitais fora do Maranhão e queremos você trabalhando 
 * Faça um pull request dando uma breve descrição sobre sua carreira;
 
 Estamos com 2 vagas, 1 vaga para desenvolvedor Senior e outra para desenvolvedor Junior.
+Salários negociados de acordo com a experiência com a base abaixo:
 
 * Desenvolvedor Senior - CLT: R$ 3.600,00 (liquido). PJ: R$ 4.200,00;
 * Desenvolvedor Junior - CLT: R$ 1.800,00 (liquido). PJ: R$ 2.100,00;
